@@ -95,7 +95,7 @@ Utworzymy teraz projekt i uruchomimy serwer deweloperski. Wydajemy polecenia:
 
 .. code-block:: bash
 
-    (.pve) ~/Django$ django-admin stratproject malybar
+    (.pve) ~/Django$ django-admin startproject malybar
     (.pve) ~/Django$ cd malybar
     (.pve) ~/Django/malybar$ python manage.py runserver
 
